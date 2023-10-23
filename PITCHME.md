@@ -191,7 +191,7 @@ Solution: A mobile app where a car picks you up and drives you wherever you want
 
 # BlueCross BlueShield
 
-![](/assets/bcbs-logo.svg)
+![](/assets/blue-cross-blue-shield-logo.webp)
 
 ---
 
