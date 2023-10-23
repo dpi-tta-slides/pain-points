@@ -201,6 +201,12 @@ Solution: A mobile app where a car picks you up and drives you wherever you want
 
 ---
 
+# Milkshake
+
+![](./assets/milkshake-vanilla.webp)
+
+---
+
 # Understanding the Job
 
 Understanding a product's actual job makes improving the product easier. Clayton Christensen, professor at Harvard Business School, talks about the job to be done in this presentation, [Understanding the Job](https://www.youtube.com/watch?v=sfGtw2C95Ms).
