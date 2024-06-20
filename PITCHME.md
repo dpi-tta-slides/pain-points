@@ -80,6 +80,14 @@ _paginate: false
  
 ---
 
+# Pain Inducers
+
+- Don't *create* pain for your users
+- Worse than a vitamin
+- Can you think of any pain inducers?
+
+---
+
 # Let's talk through some examples
 
 - What pain point do they address?
