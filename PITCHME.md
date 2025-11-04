@@ -15,6 +15,7 @@ _paginate: false
 - It's best to think up more than one idea if you can, so that we have options to choose from.
 
 ---
+
 # *Noticing* Pain Points 🥲
 
 > The verb you want to be using with respect to startup ideas is not "think up" but "notice."
@@ -28,7 +29,9 @@ _paginate: false
 - Try to *notice* a real annoyance at work or at home or with friends that we can solve, even if for just one user — you.
 
 ---
+
 # Urgent Problems
+>
 > Find someone with a really urgent problem. Imagine your arm is pinned underneath a boulder. You have 2 options. One option is gnaw off your own arm and your other option is to sign an LOI with this promising young startup. That's the kind of customer you want."
 
 - Paul Buchheit, "[The Path to $100B](https://www.youtube.com/watch?v=Ir3hGtg0Wog&t=2910s)"
@@ -41,7 +44,9 @@ _paginate: false
 - How well does it solve the pain for the customer?
 
 ---
+
 # Vitamin
+
 - Indirect, long-term benefits that address general health or minor problems
 - Nice to have
 - Won’t wreck your day if you forget to take them
@@ -49,15 +54,18 @@ _paginate: false
 ---
 
 # Pain Killer
+
 - Necessary short-term fixes to pressing issues
 - May not solve the underlying issue
 
 ---
 
 # Cure
+
 - Make the problem go away entirely.
 
 ---
+
 # Vitamin, Pain Killer or Cure?
 
 - Customers’ willingness to pay (or use) depends directly on their need for your product.
@@ -66,18 +74,19 @@ _paginate: false
 ---
 
 > are people deeply passionate about what you're doing? Do customers love your product? I think it's more important to measure love than growth. If people absolutely love your product, they're going to tell other people, and your product is going to grow.
+
 - Brian Chesky (Airbnb)
 
 [source](https://www.inc.com/salvador-rodriguez/brian-chesky-ges-entrepreneurship.html)
 
 <!-- better to have 10 people LOVE your product than 100 who sort of like it -->
 
-
 ---
 
 # Keep it simple
+
 - The best ideas address simple pain points.
- 
+
 ---
 
 # Pain Inducers
@@ -93,9 +102,10 @@ _paginate: false
 - What pain point do they address?
 - How do they solve it?
 - (Bonus) Is it a vitamin, pain killer, or cure?
----
-# DoorDash / GrubHub / UberEats / Chowbus
 
+---
+
+# DoorDash / GrubHub / UberEats / Chowbus
 
 ![](./assets/doordash-window.webp)
 
@@ -106,6 +116,7 @@ Solution: A platform that connects consumers with their favorite local and natio
 
 -->
 ---
+
 # Zoom
 
 ![](./assets/zoom-meeting.webp)
@@ -130,6 +141,7 @@ Solution: Offers a free stock trading app that democratizes finance for all.
 -->
 
 ---
+
 # Instagram
 
 ![bg contain](./assets/instagram.webp)
@@ -154,15 +166,9 @@ Solution: Provides a simple way for people to schedule meetings without the emai
 
 ---
 
-# Duolingo
+# Cameo
 
-![bg contain 60%](./assets/duolingo.png)
-
-<!-- 
-Pain Point: The cost and complexity of learning a new language.
-
-Solution: A gamified language-learning platform that's free and fun. 
--->
+![bg contain 60%](./assets/cameo.webp)
 
 ---
 
@@ -178,15 +184,9 @@ Solution: A mobile app where a car picks you up and drives you wherever you want
 
 ---
 
-# Tesla
+# UL Solutions
 
-![](./assets/tesla-model-x.webp)
-
----
-
-# John Deere
-
-![](./assets/john-deere.webp)
+![](./assets/ul-solutions.png)
 
 ---
 
@@ -194,18 +194,11 @@ Solution: A mobile app where a car picks you up and drives you wherever you want
 
 ![](./assets/SAP-logo.svg)
 
-
 ---
 
 # BlueCross BlueShield
 
 ![](/assets/blue-cross-blue-shield-logo.webp)
-
----
-
-# Kraft Heinz
-
-![](./assets/kraft-logo.webp)
 
 ---
 
